@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="bottomSheetBuilderBackgroundColor" format="color" />
+    <attr name="bottomSheetBuilderItemTextColor" format="color" />
+    <attr name="bottomSheetBuilderTitleTextColor" format="color" />
+
+    <declare-styleable name="DropdownView">
+        <attr name="dropdown_title" format="string" />
+        <attr name="isForced_dropdown" format="boolean" />
+        <attr name="isForced_dropdown2" format="boolean" />
+        <attr name="dv_isWhiteTheme" format="boolean" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Create">
+        <menu>
+            <item
+
+                android:title="Document" />
+            <item
+
+                android:title="Spreadsheet" />
+            <item
+
+                android:title="Folder" />
+        </menu>
+    </item>
+
+
+    <item android:title="">
+        <menu>
+            <item
+
+                android:title="Upload photos or videos" />
+            <item
+
+                android:title="Use Camera" />
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,3 @@
+include ':dropdownhash'
+include ':app'
+rootProject.name = "BottomDropdown"

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Open in">
+        <menu>
+            <item
+
+                android:title="Keep" />
+
+            <item
+
+                android:title="Inbox" />
+
+            <item
+
+                android:title="Hangouts" />
+            <item
+
+                android:title="Messenger" />
+
+            <item
+
+                android:title="Google+" />
+
+            <item
+
+                android:title="Sheets" />
+
+            <item
+
+                android:title="Docs" />
+
+            <item
+
+                android:title="Slides" />
+
+            <item
+
+                android:title="Photos" />
+
+            <item
+
+                android:title="Drive" />
+
+            <item
+
+                android:title="Keep" />
+
+            <item
+
+                android:title="Inbox" />
+
+            <item
+
+                android:title="Hangouts" />
+            <item
+
+                android:title="Messenger" />
+
+            <item
+
+                android:title="Google+" />
+
+            <item
+
+                android:title="Sheets" />
+
+            <item
+
+                android:title="Docs" />
+
+            <item
+
+                android:title="Slides" />
+
+            <item
+
+                android:title="Photos" />
+
+            <item
+
+                android:title="Drive" />
+        </menu>
+    </item>
+
+
+</menu>
